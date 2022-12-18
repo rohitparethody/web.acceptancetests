@@ -27,7 +27,7 @@
 * The behaviour of the page when a quote is requested with the given parameters is unpredictable. Sometimes, it loads the correct  **Policy Information & Payment** page and sometimes it loads a completely different **Your Quote** page
   
 **Expected Result**
-![ExpectedResult](Screenshots/PolicyConfirmation.png)
+![ExpectedResult](screenshots/PolicyConfirmation.png)
 
 **Intermittent Bug**
-![ActualResult](Screenshots/QuotePage.png)
+![ActualResult](screenshots/QuotePage.png)
