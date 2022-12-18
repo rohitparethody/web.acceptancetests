@@ -1,0 +1,7 @@
+/.idea/
+/acceptance-tests/test-output/
+/acceptance-tests/Screenshots/
+*/target/*
+
+
+

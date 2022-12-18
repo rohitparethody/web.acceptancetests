@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RentalCover">
+    <test thread-count="1" name="Get instant quote ">
+        <parameter name="url" value="https://www.rentalcover.com/"/>
+        <parameter name="countryOfRental" value="United States"/>
+        <parameter name="countryOfResidence" value="United States"/>
+        <parameter name="vehicleType" value="Car,4x4"/>
+        <classes>
+            <class name="testautomation.tests.rentalcover.RentalCoverTests"/>
+        </classes>
+    </test>
+</suite>
